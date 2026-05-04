@@ -41,7 +41,7 @@ function nextPage(linkHeader) {
 
 async function getPublicRepos() {
   const repos = [];
-  let url = `https://api.github.com/orgs/${encodeURIComponent(owner)}/repos?type=public&per_page=100&sort=full_name`;
+  let url = `https://api.github.com/orgs/${encodeURIComponent(owner)}/repos?type=public&per_page=100&sort=pushed&direction=desc`;
 
   while (url) {
     const response = await githubFetch(url);
@@ -49,7 +49,12 @@ async function getPublicRepos() {
     url = nextPage(response.headers.get("link"));
   }
 
-  return repos.sort((a, b) => a.name.localeCompare(b.name, "en", { sensitivity: "base" }));
+  return repos.sort((a, b) => {
+    const latestA = new Date(a.pushed_at || a.updated_at).getTime();
+    const latestB = new Date(b.pushed_at || b.updated_at).getTime();
+
+    return latestB - latestA || a.name.localeCompare(b.name, "en", { sensitivity: "base" });
+  });
 }
 
 function escapeCell(value) {
