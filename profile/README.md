@@ -9,11 +9,11 @@ Forjd is focused on developer experience, automation, and infrastructure — mak
 ## Public Repositories
 
 <!-- repos:start -->
-_Public repositories in the Forjd GitHub organisation. Updated automatically._
+_Public repositories in the forjd GitHub organisation. Updated automatically._
 
 | Repository | Description | Language | Stars | Updated |
 | --- | --- | --- | ---: | --- |
-| [.github](https://github.com/forjd/.github) | No description provided. | n/a | 0 | 14 Mar 2026 |
+| [.github](https://github.com/forjd/.github) | No description provided. | JavaScript | 0 | 03 May 2026 |
 | [agent-skills](https://github.com/forjd/agent-skills) | Agent skills for GitHub repo hardening, PR creation, and review actioning — portable capabilities for any skills-compatible AI agent | Shell | 2 | 14 Mar 2026 |
 | [aid](https://github.com/forjd/aid) | Local memory CLI for coding agents and developers working inside Git repositories. | Go | 5 | 30 Apr 2026 |
 | [anvil](https://github.com/forjd/anvil) | A desktop coding agent for local repositories, powered by Codex. | TypeScript | 1 | 18 Apr 2026 |
@@ -29,7 +29,7 @@ _Public repositories in the Forjd GitHub organisation. Updated automatically._
 | [pi-pr-ally](https://github.com/forjd/pi-pr-ally) | GitHub PR + CI copilot extension package for pi | TypeScript | 1 | 18 Apr 2026 |
 | [pi-todo-md](https://github.com/forjd/pi-todo-md) | A shareable pi extension for managing a repo-local TODO.md file. | JavaScript | 3 | 17 Apr 2026 |
 | [qa-extension](https://github.com/forjd/qa-extension) | Chrome/Firefox browser extension for one-click QA auditing | Shell | 0 | 21 Mar 2026 |
-| [seg-lcd-rust](https://github.com/forjd/seg-lcd-rust) | A Rust seven-segment LCD simulator with terminal, SVG, and native GUI renderers. | Rust | 1 | 03 May 2026 |
+| [seg-lcd-rust](https://github.com/forjd/seg-lcd-rust) | A Rust seven-segment LCD simulator with terminal, SVG, and native GUI renderers. | Rust | 2 | 03 May 2026 |
 | [signal-box](https://github.com/forjd/signal-box) | Local-first AI inbox for developer context, project memory, and shipping artefacts. | TypeScript | 2 | 28 Apr 2026 |
 <!-- repos:end -->
 
