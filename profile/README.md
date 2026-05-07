@@ -13,8 +13,9 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 
 | Repository | Description | Language | Stars | Updated |
 | --- | --- | --- | ---: | --- |
+| [agenthint](https://github.com/forjd/agenthint) | Detect AI agent runtimes and adapt CLI output | Rust | 4 | 06 May 2026 |
+| [.github](https://github.com/forjd/.github) | No description provided. | JavaScript | 0 | 06 May 2026 |
 | [seg-lcd-rust](https://github.com/forjd/seg-lcd-rust) | A Rust seven-segment LCD simulator with terminal, SVG, and native GUI renderers. | Rust | 2 | 05 May 2026 |
-| [.github](https://github.com/forjd/.github) | No description provided. | JavaScript | 0 | 05 May 2026 |
 | [retro-pet-rust](https://github.com/forjd/retro-pet-rust) | A native Rust desktop virtual pet inspired by classic handheld companions. | Rust | 1 | 04 May 2026 |
 | [minimap](https://github.com/forjd/minimap) | Generate deterministic AGENTS.md and CLAUDE.md context blocks for coding agents | TypeScript | 1 | 03 May 2026 |
 | [ctx](https://github.com/forjd/ctx) | Local context packs for coding agents | TypeScript | 2 | 30 Apr 2026 |
