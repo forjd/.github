@@ -7,6 +7,7 @@ const owner =
   "Forjd";
 const readmePath = process.env.README_PATH || "profile/README.md";
 const token = process.env.GITHUB_TOKEN;
+const excludedRepos = new Set([".github", "homebrew-tap"]);
 
 const startMarker = "<!-- repos:start -->";
 const endMarker = "<!-- repos:end -->";
@@ -49,12 +50,14 @@ async function getPublicRepos() {
     url = nextPage(response.headers.get("link"));
   }
 
-  return repos.sort((a, b) => {
-    const latestA = new Date(a.pushed_at || a.updated_at).getTime();
-    const latestB = new Date(b.pushed_at || b.updated_at).getTime();
+  return repos
+    .filter((repo) => !excludedRepos.has(repo.name))
+    .sort((a, b) => {
+      const latestA = new Date(a.pushed_at || a.updated_at).getTime();
+      const latestB = new Date(b.pushed_at || b.updated_at).getTime();
 
-    return latestB - latestA || a.name.localeCompare(b.name, "en", { sensitivity: "base" });
-  });
+      return latestB - latestA || a.name.localeCompare(b.name, "en", { sensitivity: "base" });
+    });
 }
 
 function escapeCell(value) {
