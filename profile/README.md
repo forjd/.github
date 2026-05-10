@@ -9,7 +9,7 @@ Forjd is focused on developer experience, automation, and infrastructure — mak
 ## Public Repositories
 
 <!-- repos:start -->
-_Public repositories in the Forjd GitHub organisation. Updated automatically._
+_Public repositories in the forjd GitHub organisation. Updated automatically._
 
 | Repository | Description | Language | Stars | Updated |
 | --- | --- | --- | ---: | --- |
@@ -26,7 +26,7 @@ _Public repositories in the Forjd GitHub organisation. Updated automatically._
 | [pi-clean](https://github.com/forjd/pi-clean) | A cautious cleanup script for removing pi data, project-local .pi directories, and pi-managed global npm packages. | Shell | 1 | 19 Apr 2026 |
 | [anvil](https://github.com/forjd/anvil) | A desktop coding agent for local repositories, powered by Codex. | TypeScript | 1 | 18 Apr 2026 |
 | [pi-pr-ally](https://github.com/forjd/pi-pr-ally) | GitHub PR + CI copilot extension package for pi | TypeScript | 1 | 18 Apr 2026 |
-| [pi-todo-md](https://github.com/forjd/pi-todo-md) | A shareable pi extension for managing a repo-local TODO.md file. | JavaScript | 4 | 17 Apr 2026 |
+| [pi-todo-md](https://github.com/forjd/pi-todo-md) | A shareable pi extension for managing a repo-local TODO.md file. | JavaScript | 5 | 17 Apr 2026 |
 | [browse-ui](https://github.com/forjd/browse-ui) | A polished chat UI for AI browsing agents, built with React and Catppuccin Frappé | TypeScript | 1 | 13 Apr 2026 |
 | [qa-extension](https://github.com/forjd/qa-extension) | Chrome/Firefox browser extension for one-click QA auditing | Shell | 0 | 21 Mar 2026 |
 | [agent-skills](https://github.com/forjd/agent-skills) | Agent skills for GitHub repo hardening, PR creation, and review actioning — portable capabilities for any skills-compatible AI agent | Shell | 2 | 14 Mar 2026 |
