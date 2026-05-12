@@ -23,7 +23,7 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 | [signal-box](https://github.com/forjd/signal-box) | Local-first AI inbox for developer context, project memory, and shipping artefacts. | TypeScript | 2 | 28 Apr 2026 |
 | [muesli](https://github.com/forjd/muesli) | Native macOS voice-to-text app using SwiftUI, FluidAudio, and NVIDIA Parakeet | Swift | 1 | 26 Apr 2026 |
 | [pi-package-search](https://github.com/forjd/pi-package-search) | Discover and install Pi packages from npm directly inside Pi. | TypeScript | 1 | 19 Apr 2026 |
-| [pi-clean](https://github.com/forjd/pi-clean) | A cautious cleanup script for removing pi data, project-local .pi directories, and pi-managed global npm packages. | Shell | 1 | 19 Apr 2026 |
+| [pi-clean](https://github.com/forjd/pi-clean) | A cautious cleanup script for removing pi data, project-local .pi directories, and pi-managed global npm packages. | Shell | 2 | 19 Apr 2026 |
 | [anvil](https://github.com/forjd/anvil) | A desktop coding agent for local repositories, powered by Codex. | TypeScript | 1 | 18 Apr 2026 |
 | [pi-pr-ally](https://github.com/forjd/pi-pr-ally) | GitHub PR + CI copilot extension package for pi | TypeScript | 1 | 18 Apr 2026 |
 | [pi-todo-md](https://github.com/forjd/pi-todo-md) | A shareable pi extension for managing a repo-local TODO.md file. | JavaScript | 5 | 17 Apr 2026 |
