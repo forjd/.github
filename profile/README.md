@@ -13,8 +13,8 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 
 | Repository | Description | Language | Stars | Updated |
 | --- | --- | --- | ---: | --- |
+| [forjd-pi](https://github.com/forjd/forjd-pi) | Forjd extension pack for the pi coding agent | TypeScript | 1 | 25 May 2026 |
 | [runtrail](https://github.com/forjd/runtrail) | Portable event trails for agentic dev workflows: commands, repo diffs, browser QA, CI failures, and repair prompts. | Rust | 2 | 24 May 2026 |
-| [forjd-pi](https://github.com/forjd/forjd-pi) | Forjd extension pack for the pi coding agent | TypeScript | 1 | 24 May 2026 |
 | [brain](https://github.com/forjd/brain) | Local-first memory layer for coding agents that turns Codex and Claude session logs into searchable Markdown context. | Go | 1 | 21 May 2026 |
 | [agent-skills](https://github.com/forjd/agent-skills) | Agent skills for GitHub repo hardening, PR creation, and review actioning — portable capabilities for any skills-compatible AI agent | Shell | 2 | 21 May 2026 |
 | [aid](https://github.com/forjd/aid) | Local memory CLI for coding agents and developers working inside Git repositories. | Go | 5 | 14 May 2026 |
