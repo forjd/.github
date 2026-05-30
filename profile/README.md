@@ -31,7 +31,7 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 | [pi-clean](https://github.com/forjd/pi-clean) | A cautious cleanup script for removing pi data, project-local .pi directories, and pi-managed global npm packages. | Shell | 3 | 19 Apr 2026 |
 | [anvil](https://github.com/forjd/anvil) | A desktop coding agent for local repositories, powered by Codex. | TypeScript | 1 | 18 Apr 2026 |
 | [pi-pr-ally](https://github.com/forjd/pi-pr-ally) | GitHub PR + CI copilot extension package for pi | TypeScript | 1 | 18 Apr 2026 |
-| [pi-todo-md](https://github.com/forjd/pi-todo-md) | A shareable pi extension for managing a repo-local TODO.md file. | JavaScript | 6 | 17 Apr 2026 |
+| [pi-todo-md](https://github.com/forjd/pi-todo-md) | A shareable pi extension for managing a repo-local TODO.md file. | JavaScript | 7 | 17 Apr 2026 |
 | [browse-ui](https://github.com/forjd/browse-ui) | A polished chat UI for AI browsing agents, built with React and Catppuccin Frappé | TypeScript | 1 | 13 Apr 2026 |
 | [qa-extension](https://github.com/forjd/qa-extension) | Chrome/Firefox browser extension for one-click QA auditing | Shell | 0 | 21 Mar 2026 |
 | [git-search](https://github.com/forjd/git-search) | Semantic search over git commit history — local embeddings, sqlite-vec, terminal UI | TypeScript | 3 | 12 Mar 2026 |
