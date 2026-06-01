@@ -13,6 +13,7 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 
 | Repository | Description | Language | Stars | Updated |
 | --- | --- | --- | ---: | --- |
+| [filmlook](https://github.com/forjd/filmlook) | CLI-first Rust film-emulation engine with data-driven JSON recipes. | Rust | 1 | 31 May 2026 |
 | [better-writing](https://github.com/forjd/better-writing) | An agent skill for prose that sounds clear, specific, and human. | n/a | 2 | 27 May 2026 |
 | [forjd-pi](https://github.com/forjd/forjd-pi) | Forjd extension pack for the pi coding agent | TypeScript | 1 | 25 May 2026 |
 | [runtrail](https://github.com/forjd/runtrail) | Portable event trails for agentic dev workflows: commands, repo diffs, browser QA, CI failures, and repair prompts. | Rust | 2 | 24 May 2026 |
