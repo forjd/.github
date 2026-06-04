@@ -13,13 +13,13 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 
 | Repository | Description | Language | Stars | Updated |
 | --- | --- | --- | ---: | --- |
+| [aid](https://github.com/forjd/aid) | Local memory CLI for coding agents and developers working inside Git repositories. | Go | 5 | 04 Jun 2026 |
 | [filmlook](https://github.com/forjd/filmlook) | Rust film-emulation engine with a Tauri desktop app, deterministic CLI, and data-driven JSON recipes. | Rust | 2 | 01 Jun 2026 |
 | [better-writing](https://github.com/forjd/better-writing) | An agent skill for prose that sounds clear, specific, and human. | n/a | 2 | 27 May 2026 |
 | [forjd-pi](https://github.com/forjd/forjd-pi) | Forjd extension pack for the pi coding agent | TypeScript | 1 | 25 May 2026 |
 | [runtrail](https://github.com/forjd/runtrail) | Portable event trails for agentic dev workflows: commands, repo diffs, browser QA, CI failures, and repair prompts. | Rust | 2 | 24 May 2026 |
 | [brain](https://github.com/forjd/brain) | Local-first memory layer for coding agents that turns Codex and Claude session logs into searchable Markdown context. | Go | 1 | 21 May 2026 |
 | [agent-skills](https://github.com/forjd/agent-skills) | Agent skills for GitHub repo hardening, PR creation, and review actioning — portable capabilities for any skills-compatible AI agent | Shell | 2 | 21 May 2026 |
-| [aid](https://github.com/forjd/aid) | Local memory CLI for coding agents and developers working inside Git repositories. | Go | 5 | 14 May 2026 |
 | [agenthint](https://github.com/forjd/agenthint) | Detect AI agent runtimes so CLIs can choose agent-friendly output | Rust | 8 | 09 May 2026 |
 | [browse](https://github.com/forjd/browse) | Fast CLI for browser automation — Playwright + stealth behind a persistent daemon | TypeScript | 11 | 08 May 2026 |
 | [seg-lcd-rust](https://github.com/forjd/seg-lcd-rust) | A Rust seven-segment LCD simulator with terminal, SVG, and native GUI renderers. | Rust | 2 | 05 May 2026 |
