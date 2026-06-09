@@ -13,7 +13,7 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 
 | Repository | Description | Language | Stars | Updated |
 | --- | --- | --- | ---: | --- |
-| [film-chef](https://github.com/forjd/film-chef) | Film emulation photo editor for macOS. Native and fast. | Swift | 1 | 07 Jun 2026 |
+| [film-chef](https://github.com/forjd/film-chef) | Film emulation photo editor for macOS. Native and fast. | Swift | 2 | 08 Jun 2026 |
 | [aid](https://github.com/forjd/aid) | Local memory CLI for coding agents and developers working inside Git repositories. | Go | 5 | 04 Jun 2026 |
 | [filmlook](https://github.com/forjd/filmlook) | Rust film-emulation engine with a Tauri desktop app, deterministic CLI, and data-driven JSON recipes. | Rust | 2 | 01 Jun 2026 |
 | [better-writing](https://github.com/forjd/better-writing) | An agent skill for prose that sounds clear, specific, and human. | n/a | 2 | 27 May 2026 |
