@@ -13,8 +13,8 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 
 | Repository | Description | Language | Stars | Updated |
 | --- | --- | --- | ---: | --- |
+| [browse](https://github.com/forjd/browse) | Fast CLI for browser automation — Playwright + stealth behind a persistent daemon | TypeScript | 11 | 12 Jun 2026 |
 | [film-chef](https://github.com/forjd/film-chef) | Film emulation photo editor for macOS. Native and fast. | Swift | 2 | 12 Jun 2026 |
-| [browse](https://github.com/forjd/browse) | Fast CLI for browser automation — Playwright + stealth behind a persistent daemon | TypeScript | 11 | 11 Jun 2026 |
 | [agenthint](https://github.com/forjd/agenthint) | Detect AI agent runtimes so CLIs can choose agent-friendly output | Rust | 8 | 11 Jun 2026 |
 | [aid](https://github.com/forjd/aid) | Local memory CLI for coding agents and developers working inside Git repositories. | Go | 5 | 11 Jun 2026 |
 | [better-writing](https://github.com/forjd/better-writing) | An agent skill for prose that sounds clear, specific, and human. | Python | 4 | 10 Jun 2026 |
