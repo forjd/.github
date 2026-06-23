@@ -13,7 +13,7 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 
 | Repository | Description | Language | Stars | Updated |
 | --- | --- | --- | ---: | --- |
-| [startup-ideation-skills](https://github.com/forjd/startup-ideation-skills) | No description provided. | n/a | 1 | 21 Jun 2026 |
+| [startup-ideation-skills](https://github.com/forjd/startup-ideation-skills) | Open source agent skills for evidence-first startup ideation: capture pains, grill assumptions, design validation tests, synthesize interviews, and scope a narrow v1. | Ruby | 1 | 22 Jun 2026 |
 | [agentprov](https://github.com/forjd/agentprov) | Signed, tamper-evident provenance records for AI agent runs | Rust | 1 | 19 Jun 2026 |
 | [film-chef](https://github.com/forjd/film-chef) | Film emulation photo editor for macOS. Native and fast. | Swift | 2 | 16 Jun 2026 |
 | [tilezo](https://github.com/forjd/tilezo) | A Bun and TypeScript multiplayer prototype for isometric social rooms. | TypeScript | 1 | 15 Jun 2026 |
