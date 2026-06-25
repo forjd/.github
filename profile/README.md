@@ -13,7 +13,8 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 
 | Repository | Description | Language | Stars | Updated |
 | --- | --- | --- | ---: | --- |
-| [startup-ideation-skills](https://github.com/forjd/startup-ideation-skills) | Open source agent skills for evidence-first startup ideation: capture pains, grill assumptions, design validation tests, synthesize interviews, and scope a narrow v1. | Ruby | 1 | 22 Jun 2026 |
+| [aid](https://github.com/forjd/aid) | Local memory CLI for coding agents and developers working inside Git repositories. | Go | 5 | 25 Jun 2026 |
+| [startup-ideation-skills](https://github.com/forjd/startup-ideation-skills) | Open source agent skills for evidence-first startup ideation: capture pains, grill assumptions, design validation tests, synthesize interviews, and scope a narrow v1. | Ruby | 2 | 22 Jun 2026 |
 | [agentprov](https://github.com/forjd/agentprov) | Signed, tamper-evident provenance records for AI agent runs | Rust | 1 | 19 Jun 2026 |
 | [film-chef](https://github.com/forjd/film-chef) | Film emulation photo editor for macOS. Native and fast. | Swift | 2 | 16 Jun 2026 |
 | [tilezo](https://github.com/forjd/tilezo) | A Bun and TypeScript multiplayer prototype for isometric social rooms. | TypeScript | 1 | 15 Jun 2026 |
@@ -21,7 +22,6 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 | [openmp-rust-capi](https://github.com/forjd/openmp-rust-capi) | Rust native component example for open.mp using the official C API, Zig cross-compilation, and an end-to-end server smoke test. | Rust | 1 | 13 Jun 2026 |
 | [browse](https://github.com/forjd/browse) | Fast CLI for browser automation — Playwright + stealth behind a persistent daemon | TypeScript | 11 | 12 Jun 2026 |
 | [agenthint](https://github.com/forjd/agenthint) | Detect AI agent runtimes so CLIs can choose agent-friendly output | Rust | 8 | 11 Jun 2026 |
-| [aid](https://github.com/forjd/aid) | Local memory CLI for coding agents and developers working inside Git repositories. | Go | 5 | 11 Jun 2026 |
 | [filmlook](https://github.com/forjd/filmlook) | Rust film-emulation engine with a Tauri desktop app, deterministic CLI, and data-driven JSON recipes. | Rust | 2 | 01 Jun 2026 |
 | [forjd-pi](https://github.com/forjd/forjd-pi) | Forjd extension pack for the pi coding agent | TypeScript | 1 | 25 May 2026 |
 | [runtrail](https://github.com/forjd/runtrail) | Portable event trails for agentic dev workflows: commands, repo diffs, browser QA, CI failures, and repair prompts. | Rust | 2 | 24 May 2026 |
