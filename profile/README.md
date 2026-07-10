@@ -14,7 +14,7 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 | Repository | Description | Language | Stars | Updated |
 | --- | --- | --- | ---: | --- |
 | [mythos-delegation-skill](https://github.com/forjd/mythos-delegation-skill) | Agent Skill for Claude Code & AI coding agents: a decision guide for when to delegate to subagents, parallelize agents, or orchestrate multi-agent workflows — and when to just work inline. Install via skills.sh. | n/a | 2 | 02 Jul 2026 |
-| [better-writing](https://github.com/forjd/better-writing) | An agent skill for prose that sounds clear, specific, and human. | Python | 9 | 02 Jul 2026 |
+| [better-writing](https://github.com/forjd/better-writing) | An agent skill for prose that sounds clear, specific, and human. | Python | 10 | 02 Jul 2026 |
 | [aid](https://github.com/forjd/aid) | Local memory CLI for coding agents and developers working inside Git repositories. | Go | 5 | 25 Jun 2026 |
 | [startup-ideation-skills](https://github.com/forjd/startup-ideation-skills) | Open source agent skills for evidence-first startup ideation: capture pains, grill assumptions, design validation tests, synthesize interviews, and scope a narrow v1. | Ruby | 2 | 22 Jun 2026 |
 | [agentprov](https://github.com/forjd/agentprov) | Signed, tamper-evident provenance records for AI agent runs | Rust | 1 | 19 Jun 2026 |
@@ -35,7 +35,7 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 | [signal-box](https://github.com/forjd/signal-box) | Local-first AI inbox for developer context, project memory, and shipping artefacts. | TypeScript | 2 | 28 Apr 2026 |
 | [muesli](https://github.com/forjd/muesli) | Native macOS voice-to-text app using SwiftUI, FluidAudio, and NVIDIA Parakeet | Swift | 1 | 26 Apr 2026 |
 | [pi-package-search](https://github.com/forjd/pi-package-search) | Discover and install Pi packages from npm directly inside Pi. | TypeScript | 1 | 19 Apr 2026 |
-| [pi-clean](https://github.com/forjd/pi-clean) | A cautious cleanup script for removing pi data, project-local .pi directories, and pi-managed global npm packages. | Shell | 3 | 19 Apr 2026 |
+| [pi-clean](https://github.com/forjd/pi-clean) | A cautious cleanup script for removing pi data, project-local .pi directories, and pi-managed global npm packages. | Shell | 4 | 19 Apr 2026 |
 | [anvil](https://github.com/forjd/anvil) | A desktop coding agent for local repositories, powered by Codex. | TypeScript | 1 | 18 Apr 2026 |
 | [pi-pr-ally](https://github.com/forjd/pi-pr-ally) | GitHub PR + CI copilot extension package for pi | TypeScript | 1 | 18 Apr 2026 |
 | [pi-todo-md](https://github.com/forjd/pi-todo-md) | A shareable pi extension for managing a repo-local TODO.md file. | JavaScript | 7 | 17 Apr 2026 |
