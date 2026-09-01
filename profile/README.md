@@ -13,7 +13,7 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 
 | Repository | Description | Language | Stars | Updated |
 | --- | --- | --- | ---: | --- |
-| [better-writing](https://github.com/forjd/better-writing) | An agent skill for prose that sounds clear, specific, and human. | Python | 26 | 19 Aug 2026 |
+| [better-writing](https://github.com/forjd/better-writing) | An agent skill for prose that sounds clear, specific, and human. | Python | 27 | 19 Aug 2026 |
 | [mythos-delegation-skill](https://github.com/forjd/mythos-delegation-skill) | Agent Skill for Claude Code & AI coding agents: a decision guide for when to delegate to subagents, parallelize agents, or orchestrate multi-agent workflows — and when to just work inline. Install via skills.sh. | n/a | 3 | 02 Jul 2026 |
 | [aid](https://github.com/forjd/aid) | Local memory CLI for coding agents and developers working inside Git repositories. | Go | 5 | 25 Jun 2026 |
 | [startup-ideation-skills](https://github.com/forjd/startup-ideation-skills) | Open source agent skills for evidence-first startup ideation: capture pains, grill assumptions, design validation tests, synthesize interviews, and scope a narrow v1. | Ruby | 2 | 22 Jun 2026 |
