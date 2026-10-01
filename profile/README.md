@@ -19,7 +19,7 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 | [anvil](https://github.com/forjd/anvil) | A desktop coding agent for local repositories, powered by Codex. _(archived)_ | TypeScript | 1 | 26 Sept 2026 |
 | [agenthint](https://github.com/forjd/agenthint) | Detect AI agent runtimes so CLIs can choose agent-friendly output | Rust | 8 | 12 Sept 2026 |
 | [mythos-delegation-skill](https://github.com/forjd/mythos-delegation-skill) | Agent skill for Claude Code and other coding agents on when to delegate to subagents, run agents in parallel or orchestrate multi-agent workflows, and when to work inline. | n/a | 3 | 02 Jul 2026 |
-| [startup-ideation-skills](https://github.com/forjd/startup-ideation-skills) | Open source agent skills for evidence-first startup ideation: capture pains, grill assumptions, design validation tests, synthesise interviews and scope a narrow v1. | Ruby | 2 | 22 Jun 2026 |
+| [startup-ideation-skills](https://github.com/forjd/startup-ideation-skills) | Open source agent skills for evidence-first startup ideation: capture pains, grill assumptions, design validation tests, synthesise interviews and scope a narrow v1. | Ruby | 3 | 22 Jun 2026 |
 | [agentprov](https://github.com/forjd/agentprov) | Signed, tamper-evident provenance records for AI agent runs | Rust | 1 | 19 Jun 2026 |
 | [film-chef](https://github.com/forjd/film-chef) | Native macOS film-emulation photo editor built with SwiftUI and Core Image, driven by editable JSON recipes. | Swift | 4 | 16 Jun 2026 |
 | [tilezo](https://github.com/forjd/tilezo) | A Bun and TypeScript multiplayer prototype for isometric social rooms. | TypeScript | 1 | 15 Jun 2026 |
