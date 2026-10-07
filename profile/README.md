@@ -13,9 +13,9 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 
 | Repository | Description | Language | Stars | Updated |
 | --- | --- | --- | ---: | --- |
+| [better-writing](https://github.com/forjd/better-writing) | An agent skill for prose that sounds clear, specific, and human. | Python | 37 | 07 Oct 2026 |
 | [trending-repos](https://github.com/forjd/trending-repos) | A Cloudflare Worker that scrapes GitHub trending every 4 hours and tracks how many days each repo has trended | TypeScript | 1 | 06 Oct 2026 |
 | [licenses-cli](https://github.com/forjd/licenses-cli) | Write MIT, Apache-2.0, GPL and other LICENSE files from one dependency-free binary for macOS, Linux and Windows. | Go | 1 | 05 Oct 2026 |
-| [better-writing](https://github.com/forjd/better-writing) | An agent skill for prose that sounds clear, specific, and human. | Python | 37 | 29 Sept 2026 |
 | [browse](https://github.com/forjd/browse) | Browser automation CLI for AI agents and QA: Playwright with stealth, run behind a persistent daemon. | TypeScript | 13 | 26 Sept 2026 |
 | [aid](https://github.com/forjd/aid) | Local memory CLI for coding agents and developers working inside Git repositories. _(archived)_ | Go | 5 | 26 Sept 2026 |
 | [anvil](https://github.com/forjd/anvil) | A desktop coding agent for local repositories, powered by Codex. _(archived)_ | TypeScript | 1 | 26 Sept 2026 |
