@@ -13,7 +13,7 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 
 | Repository | Description | Language | Stars | Updated |
 | --- | --- | --- | ---: | --- |
-| [better-writing](https://github.com/forjd/better-writing) | An agent skill for prose that sounds clear, specific, and human. | Python | 43 | 07 Oct 2026 |
+| [better-writing](https://github.com/forjd/better-writing) | An agent skill for prose that sounds clear, specific, and human. | Python | 44 | 07 Oct 2026 |
 | [trending-repos](https://github.com/forjd/trending-repos) | A Cloudflare Worker that scrapes GitHub trending every 4 hours and tracks how many days each repo has trended | TypeScript | 2 | 06 Oct 2026 |
 | [licenses-cli](https://github.com/forjd/licenses-cli) | Write MIT, Apache-2.0, GPL and other LICENSE files from one dependency-free binary for macOS, Linux and Windows. | Go | 2 | 05 Oct 2026 |
 | [browse](https://github.com/forjd/browse) | Browser automation CLI for AI agents and QA: Playwright with stealth, run behind a persistent daemon. | TypeScript | 13 | 26 Sept 2026 |
@@ -23,7 +23,7 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 | [mythos-delegation-skill](https://github.com/forjd/mythos-delegation-skill) | Agent skill for Claude Code and other coding agents on when to delegate to subagents, run agents in parallel or orchestrate multi-agent workflows, and when to work inline. | n/a | 3 | 02 Jul 2026 |
 | [startup-ideation-skills](https://github.com/forjd/startup-ideation-skills) | Open source agent skills for evidence-first startup ideation: capture pains, grill assumptions, design validation tests, synthesise interviews and scope a narrow v1. | Ruby | 3 | 22 Jun 2026 |
 | [agentprov](https://github.com/forjd/agentprov) | Signed, tamper-evident provenance records for AI agent runs | Rust | 1 | 19 Jun 2026 |
-| [film-chef](https://github.com/forjd/film-chef) | Native macOS film-emulation photo editor built with SwiftUI and Core Image, driven by editable JSON recipes. | Swift | 4 | 16 Jun 2026 |
+| [film-chef](https://github.com/forjd/film-chef) | Native macOS film-emulation photo editor built with SwiftUI and Core Image, driven by editable JSON recipes. | Swift | 5 | 16 Jun 2026 |
 | [tilezo](https://github.com/forjd/tilezo) | A Bun and TypeScript multiplayer prototype for isometric social rooms. | TypeScript | 1 | 15 Jun 2026 |
 | [openmp-rust-capi](https://github.com/forjd/openmp-rust-capi) | Rust native component example for open.mp using the official C API, Zig cross-compilation, and an end-to-end server smoke test. | Rust | 1 | 13 Jun 2026 |
 | [filmlook](https://github.com/forjd/filmlook) | Rust film-emulation engine with a Tauri desktop app, deterministic CLI, and data-driven JSON recipes. | Rust | 4 | 01 Jun 2026 |
