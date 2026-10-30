@@ -27,7 +27,7 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 | [film-chef](https://github.com/forjd/film-chef) | Native macOS film-emulation photo editor built with SwiftUI and Core Image, driven by editable JSON recipes. | Swift | 5 | 16 Jun 2026 |
 | [tilezo](https://github.com/forjd/tilezo) | A Bun and TypeScript multiplayer prototype for isometric social rooms. | TypeScript | 1 | 15 Jun 2026 |
 | [openmp-rust-capi](https://github.com/forjd/openmp-rust-capi) | Rust native component example for open.mp using the official C API, Zig cross-compilation, and an end-to-end server smoke test. | Rust | 1 | 13 Jun 2026 |
-| [filmlook](https://github.com/forjd/filmlook) | Rust film-emulation engine with a Tauri desktop app, deterministic CLI, and data-driven JSON recipes. | Rust | 4 | 01 Jun 2026 |
+| [filmlook](https://github.com/forjd/filmlook) | Rust film-emulation engine with a Tauri desktop app, deterministic CLI, and data-driven JSON recipes. | Rust | 5 | 01 Jun 2026 |
 | [forjd-pi](https://github.com/forjd/forjd-pi) | Package set for the pi coding agent: a Git diff sidebar plus bundled subagent, todo and ask-user-question extensions. | TypeScript | 1 | 25 May 2026 |
 | [runtrail](https://github.com/forjd/runtrail) | Portable event trails for agentic dev workflows: commands, repo diffs, browser QA, CI failures, and repair prompts. | Rust | 2 | 24 May 2026 |
 | [brain](https://github.com/forjd/brain) | Local-first memory for coding agents: turns Codex and Claude Code session logs into SQLite events and searchable Markdown notes. | Go | 1 | 21 May 2026 |
