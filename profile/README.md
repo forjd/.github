@@ -13,7 +13,7 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 
 | Repository | Description | Language | Stars | Updated |
 | --- | --- | --- | ---: | --- |
-| [trending-repos](https://github.com/forjd/trending-repos) | A Cloudflare Worker that scrapes GitHub trending every 4 hours and tracks how many days each repo has trended | TypeScript | 2 | 02 Nov 2026 |
+| [trending-repos](https://github.com/forjd/trending-repos) | A Cloudflare Worker that scrapes GitHub trending every 4 hours and tracks how many days each repo has trended | TypeScript | 2 | 03 Nov 2026 |
 | [agenthint](https://github.com/forjd/agenthint) | Detect AI agent runtimes so CLIs can choose agent-friendly output | Rust | 8 | 02 Nov 2026 |
 | [better-writing](https://github.com/forjd/better-writing) | An agent skill for prose that sounds clear, specific, and human. | Python | 54 | 01 Nov 2026 |
 | [nextwatch](https://github.com/forjd/nextwatch) | Personal movie and TV recommendation engine built on a local copy of TMDB: content similarity, collaborative filtering and a learned ranker. | Python | 0 | 01 Nov 2026 |
@@ -31,7 +31,7 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 | [forjd-pi](https://github.com/forjd/forjd-pi) | Package set for the pi coding agent: a Git diff sidebar plus bundled subagent, todo and ask-user-question extensions. | TypeScript | 1 | 25 May 2026 |
 | [runtrail](https://github.com/forjd/runtrail) | Portable event trails for agentic dev workflows: commands, repo diffs, browser QA, CI failures, and repair prompts. | Rust | 2 | 24 May 2026 |
 | [brain](https://github.com/forjd/brain) | Local-first memory for coding agents: turns Codex and Claude Code session logs into SQLite events and searchable Markdown notes. | Go | 1 | 21 May 2026 |
-| [agent-skills](https://github.com/forjd/agent-skills) | Agent skills for GitHub repo hardening, pull request creation, PR review actioning and browser automation, for any skills-compatible AI agent. | Shell | 2 | 21 May 2026 |
+| [agent-skills](https://github.com/forjd/agent-skills) | Agent skills for GitHub repo hardening, pull request creation, PR review actioning and browser automation, for any skills-compatible AI agent. _(archived)_ | Shell | 2 | 21 May 2026 |
 | [seg-lcd-rust](https://github.com/forjd/seg-lcd-rust) | Rust seven-segment LCD simulator with terminal, SVG, PNG, native egui and WebAssembly renderers. | Rust | 2 | 05 May 2026 |
 | [retro-pet-rust](https://github.com/forjd/retro-pet-rust) | Rust desktop virtual pet built with eframe/egui, inspired by classic handheld companions. | Rust | 1 | 04 May 2026 |
 | [minimap](https://github.com/forjd/minimap) | Generate deterministic AGENTS.md and CLAUDE.md context blocks for coding agents | TypeScript | 1 | 03 May 2026 |
@@ -42,7 +42,7 @@ _Public repositories in the forjd GitHub organisation. Updated automatically._
 | [pi-clean](https://github.com/forjd/pi-clean) | Bash script that removes pi data, project-local .pi directories and pi-managed global npm packages, with a dry-run mode. | Shell | 4 | 19 Apr 2026 |
 | [pi-pr-ally](https://github.com/forjd/pi-pr-ally) | Pi extension that shows the current branch's GitHub PR, CI checks, review comments and workflow logs inside pi. | TypeScript | 1 | 18 Apr 2026 |
 | [pi-todo-md](https://github.com/forjd/pi-todo-md) | Pi extension that gives the agent a structured tool for managing a repo-local TODO.md file. | JavaScript | 8 | 17 Apr 2026 |
-| [browse-ui](https://github.com/forjd/browse-ui) | Bun and React chat UI for AI browser automation: an OpenCode agent drives the browse CLI and the UI shows a live timeline of actions and screenshots. | TypeScript | 1 | 13 Apr 2026 |
+| [browse-ui](https://github.com/forjd/browse-ui) | Bun and React chat UI for AI browser automation: an OpenCode agent drives the browse CLI and the UI shows a live timeline of actions and screenshots. _(archived)_ | TypeScript | 1 | 13 Apr 2026 |
 | [qa-extension](https://github.com/forjd/qa-extension) | Chrome/Firefox extension for one-click QA auditing, a companion to forjd/qa (build tooling only, no source yet). | Shell | 0 | 21 Mar 2026 |
 | [git-search](https://github.com/forjd/git-search) | Semantic search over git commit history in the terminal, using local embeddings (Transformers.js) and sqlite-vec. | TypeScript | 3 | 12 Mar 2026 |
 <!-- repos:end -->
